@@ -47,6 +47,7 @@ vector<vector<int>> depthFirstSearch(int V, int E, vector<vector<int>> &edges)
 
 int main()
 {
+    cout<<"Hello world"<<endl;
     int V, E;
     cout << "Enter the number of vertices (V): ";
     cin >> V;
